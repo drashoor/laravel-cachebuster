@@ -11,9 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "4.*|5.*",
-        "symfony/http-kernel": "2.*|3.*|4.*"
+        "php": ">=5.4.0"
     },
     "autoload": {
         "classmap": [
